@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">111 Hotel</string>
+    <string name="logo">111</string>
+    <string name="tagline">Crispy. Juicy. Delicious.</string>
+
+    <string name="login_title">Welcome Back</string>
+    <string name="login_sub">Login to order your favourite meal</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+
+    <string name="register_title">Create Account</string>
+    <string name="name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="have_account">Already have an account? Login</string>
+
+    <string name="forgot_title">Forgot Password</string>
+    <string name="forgot_sub">Enter your email and we will send you a recovery code</string>
+    <string name="send">Send Recovery Code</string>
+
+    <string name="reset_title">Reset Password</string>
+    <string name="new_password">New Password</string>
+    <string name="reset">Reset Password</string>
+
+    <string name="hello">Hello, Food Lover!</string>
+    <string name="banner">LIMITED TIME\nCrispy Bucket Deal\n30% OFF</string>
+    <string name="categories">Our Menu</string>
+    <string name="buckets">Buckets</string>
+    <string name="burgers">Burgers</string>
+    <string name="snacks">Snacks</string>
+    <string name="drinks">Drinks</string>
+    <string name="deals">Deals</string>
+    <string name="profile">Profile</string>
+
+    <string name="my_profile">My Profile</string>
+    <string name="logout">Logout</string>
+</resources>
